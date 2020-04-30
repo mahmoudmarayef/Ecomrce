@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'index');
 Route::view('/products', 'products');
+Route::view('/product', 'product');
