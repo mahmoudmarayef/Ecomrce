@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::view('/', 'index');
 Route::view('/products', 'products');
 Route::view('/product', 'product');
+Route::view('/cart', 'cart');
+Route::view('/checkout', 'checkout');
