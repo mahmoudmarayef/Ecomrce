@@ -91,10 +91,11 @@
 	              <div class="form-group">
 	              	<label for="">Coupon code</label>
 	                <input type="text" class="form-control text-left px-3" placeholder="">
-	              </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary py-3 px-4">Apply Coupon</button>
 	            </form>
     				</div>
-    				<p><a href="checkout.html" class="btn btn-primary py-3 px-4">Apply Coupon</a></p>
+    				
     			</div>
     			<div class="col-lg-4 mt-5 cart-wrap ftco-animate">
     				<div class="cart-total mb-3">
